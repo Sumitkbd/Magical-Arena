@@ -1,12 +1,11 @@
-magical-arena/
-│
-├── player.js          // Contains the Player class definition
-├── game.js            // Contains the fight logic between two players
-├── main.js            // Contains the main file to initialize players and start the fight.
-├── test.js            // Contains  the unit tests to ensure everything works as expected
-├── README.md          // Instructions on running the project
-
 # Magical Arena
+
+player.js          // Contains the Player class definition
+game.js            // Contains the fight logic between two players
+main.js            // Contains the main file to initialize players and start the fight.
+test.js            // Contains  the unit tests to ensure everything works as expected
+README.md          // Instructions on running the project
+
 
 ## Description
 This project implements a simple magical arena where two players fight until one player's health reaches zero. Each player takes turns to attack and defend, and the game simulates the outcome based on dice rolls.
